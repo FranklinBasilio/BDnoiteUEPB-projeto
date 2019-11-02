@@ -1,2 +1,2 @@
 # BDnoiteUEPB-projeto
-projeto de final de semestre sobre Banco de Dados Locadora de vídeos
+projeto de final de semestre sobre Banco de Dados Locadora de vídeos utilizando PHP e Mysql
